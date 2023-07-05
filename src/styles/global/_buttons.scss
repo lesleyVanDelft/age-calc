@@ -1,0 +1,8 @@
+@use '../variables/colors' as c;
+button {
+	padding: 0;
+	margin: 0;
+	background-color: c.$primary1;
+	border: none;
+	border-radius: 100%;
+}
