@@ -9,8 +9,14 @@
 
 body {
 	background-color: v.$lightGray;
+	font-family: 'Poppins', sans-serif;
 }
-
+#root {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100dvh;
+}
 h1 {
 	color: orange;
 	font-family: 'Poppins', sans-serif;
